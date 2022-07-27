@@ -30,7 +30,7 @@ public class SpringbootmongodbApplication {
 					"ahmad@gmail.com",
 					Gender.MALE,
 					address,
-					List.of("books"),
+					List.of("Computer science","Maths"),
 					BigDecimal.TEN,
 					LocalDateTime.now());
 
